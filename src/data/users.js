@@ -1,16 +1,16 @@
 export const users = [
   {
-    name: 'Adam Romański',
+    name: 'Adam_Romanski',
     attendance: '39%',
     average: '2.3',
   },
   {
-    name: 'Krzysztof Batko',
+    name: 'Krzysztof_Batko',
     attendance: '23%',
     average: '3.3',
   },
   {
-    name: 'Patrycja Gonciarz',
+    name: 'Patrycja_Gonciarz',
     attendance: '45%',
     average: '4.3',
   },
@@ -20,12 +20,12 @@ export const users = [
     average: '4.1',
   },
   {
-    name: 'Paweł Andrzejewski',
+    name: 'Bartek)Andrzejewski',
     attendance: '29%',
     average: '2.4',
   },
   {
-    name: 'Paweł Roman',
-    average: '2.4',
+    name: 'Pawel_Roman',
+    average: '2.7',
   },
 ];
